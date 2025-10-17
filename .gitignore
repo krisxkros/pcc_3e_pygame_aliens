@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+env/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code specific
+.vscode/
+*.code-workspace
+.history/
+
+# Project specific files
+*.zip
+*.7z
+ship-left.png
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific
+*.swp
+*.swo
+*.swn
+.idea/
